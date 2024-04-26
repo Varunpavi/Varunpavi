@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)
+![MasterHead](https://img.freepik.com/free-photo/retro-digital-art-illustration-person-using-radio-technology_23-2151355979.jpg?t=st=1714111648~exp=1714115248~hmac=f5aea665abbdd7f5e70f8d238ba58f089f713037d5fec3e1125e096fbbd28c42&w=1060)
 <h1 align="center">Hi 👋, I'm Varun Raja</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" src="https://backiee.com/static/wallpapers/1000x563/386745.jpg" alt="coding" width="400">
