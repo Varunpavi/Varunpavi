@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-photo/retro-digital-art-illustration-person-using-radio-technology_23-2151355979.jpg?t=st=1714111648~exp=1714115248~hmac=f5aea665abbdd7f5e70f8d238ba58f089f713037d5fec3e1125e096fbbd28c42&w=1060)
+![MasterHead](https://img.freepik.com/free-vector/young-man-using-laptop-standing-by-window-night_107791-25477.jpg?w=1380&t=st=1714111708~exp=1714112308~hmac=b460dbd49c00e4a5f6f3c9b6e4a284ad13ff11e0ed403c4e495f74de918dfa06)
 <h1 align="center">Hi 👋, I'm Varun Raja</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" src="https://backiee.com/static/wallpapers/1000x563/386745.jpg" alt="coding" width="400">
