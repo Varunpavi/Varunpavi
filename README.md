@@ -42,7 +42,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" style="height:40px;" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo" style="height:40px;" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo" style="height:40px;" /> -->
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunpavi&show_icons=true&locale=en&layout=compact" alt="varunpavi" /></p>
